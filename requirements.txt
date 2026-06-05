@@ -1,0 +1,15 @@
+pandas
+numpy
+nltk
+scikit-learn
+imbalanced-learn
+xgboost
+tensorflow
+transformers
+sentence-transformers
+groq
+matplotlib
+seaborn
+joblib
+kagglehub
+contractions
