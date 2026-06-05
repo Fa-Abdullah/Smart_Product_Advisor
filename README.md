@@ -31,13 +31,3 @@ A complete product recommendation and Q&A system built on 500,000+ Amazon review
 4. Run the notebook in Google Colab or Jupyter
 5. Upload the Reviews.csv dataset (Amazon product reviews)
 
-## Project Structure
-
-Smart-Product-Advisor/
-├── smart_product_advisor.ipynb
-├── requirements.txt
-└── README.md
-
-## Security Note
-
-API keys are not hardcoded. Use environment variables or Colab secrets.
